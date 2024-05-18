@@ -49,8 +49,9 @@ const Home = () => {
               </Underline>{" "}
               , enthusiastic about applying my software development knowledge to create innovative 
               applications. I am dedicated to further enhancing my skills and foundational knowledge 
-              in full-stack development.{" "}
+              in {" "}
               <Underline color="rgb(255, 198, 69)">
+                full-stack development.
               </Underline>
             </P>
             <Button className="mt-2" onClick={handleResumeClick}>
