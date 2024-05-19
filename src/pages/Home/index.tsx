@@ -11,7 +11,7 @@ import {
 import { FiArrowDown, FiFileText } from "react-icons/fi";
 import resume from "../../assets/resume.pdf";
 import portrait from "../../assets/rjhel.jpg";
-import { Container, Portrait, ScrollArrow, WavingHand } from "./styles";
+import { Container, Portrait, ScrollArrow, WavingHand, Image } from "./styles";
 import { RoughNotationGroup } from "react-rough-notation";
 import { useIsInViewport } from "../../hooks/useIsInViewport";
 import { useRef } from "react";
@@ -29,12 +29,12 @@ const Home = () => {
       <RoughNotationGroup show={isInViewport}>
         <FlexRow>
           <Portrait>
-            <img src={portrait} alt="portrait" />
+            <Image src={portrait} alt="portrait" />
           </Portrait>
           <FlexCol className="md:justify-center">
             <H1>
               <Highlight color="rgb(125, 216, 236)">
-                R-jel Tandugon <WavingHand>👋</WavingHand>
+                R-jhel Tandugon <WavingHand>👋</WavingHand>
               </Highlight>
             </H1>
             <H2>

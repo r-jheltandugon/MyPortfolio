@@ -6,7 +6,11 @@ export const Container = tw.div`
 
 export const Portrait = tw.div`
   flex gap-3 w-32 h-32 relative rounded-full select-none flex-shrink-0 mb-3
-  md:w-52 md:h-52 md:mr-8 
+  md:w-52 md:h-52 md:mr-8
+`;
+
+export const Image = tw.img`
+  w-full h-full rounded-full object-cover
 `;
 
 export const WavingHand = tw.span`
