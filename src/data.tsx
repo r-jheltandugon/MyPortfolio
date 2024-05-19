@@ -9,6 +9,12 @@ import {
   SiNextdotjs,
   SiNestjs,
   SiMicrosoftsqlserver,
+  SiBootstrap,
+  SiFirebase,
+  SiDjango,
+  SiVuedotjs,
+  SiPhp,
+  SiMysql,
 } from "react-icons/si";
 import dora from "./assets/dora.png";
 import trinketsofluna from "./assets/trinketsofluna.png";
@@ -87,46 +93,54 @@ export const programmingLanguages = [
 ];
 
 export const frontendStacks = [
-  { name: "Angular", icon: <SiAngular /> },
-  { name: "Next.js", icon: <SiNextdotjs /> },
   { name: "React", icon: <SiReact /> },
+  { name: "Bootstrap", icon: <SiBootstrap /> },
+  { name: "Vue", icon: <SiVuedotjs /> },
 ];
 
 export const backendStacks = [
-  { name: "NestJS", icon: <SiNestjs /> },
-  { name: "Express.js", icon: <SiExpress /> },
+  { name: "PHP", icon: <SiPhp /> },
+  { name: "Django", icon: <SiDjango /> },
 ];
 
 export const databaseStacks = [
   { name: "PostgreSQL", icon: <SiPostgresql /> },
-  { name: "MS SQL Server", icon: <SiMicrosoftsqlserver /> },
-  { name: "MongoDB", icon: <SiMongodb /> },
+  { name: "MySql", icon: <SiMysql /> },
+  { name: "Firebase", icon: <SiFirebase /> },
 ];
 
 export const experiences = [
   {
     id: 1,
-    timeline: "Jun 2017 - Jun 2019",
-    company: "University of The East",
-    position: "Senior High School, General Academic Strand",
+    timeline: "April 2024 - May 2024",
+    company: "SciBiz",
+    position: "Backend Developer",
   },
   {
     id: 2,
-    timeline: "Aug 2019 - Jun 2023",
-    company: "University of Santo Tomas",
-    position:
-      "BS Information Technology, Major in Web and Mobile App Development",
+    timeline: "February 2024 - March 2024",
+    company: "Eastern Samar State University",
+    position: "Full Stack Developer",
+  },
+];
+
+export const schools = [
+  {
+    id: 1,
+    batch: "2013 - 2014",
+    school: "Sguinon Elementary School",
+    status: "Elementary",
+  },
+  {
+    id: 2,
+    batch: "2019 - 2020",
+    school: "Eastern Samar State University",
+    status: "Senior High School",
   },
   {
     id: 3,
-    timeline: "Jan 2023 - Apr 2023",
-    company: "Symph",
-    position: "Software Developer Intern",
-  },
-  {
-    id: 4,
-    timeline: "Jun 2023 - Present",
-    company: "PwC Acceleration Center Manila",
-    position: "Full Stack Developer Associate",
+    batch: "2023 - 2024",
+    school: "Eastern Samar State University",
+    status: "College",
   },
 ];
