@@ -40,7 +40,7 @@ const About = () => {
             Vue or React.js and Bootstrap{" "}
           </Underline>
           for my frontend and{" "}
-          <Underline color="rgb(255, 198, 69)">Django, and PHP</Underline>
+          <Underline color="rgb(255, 198, 69)">Django, and PHP </Underline>
           for my backend.
         </P>
         <H2 className="mb-4">Main Programming Languages</H2>

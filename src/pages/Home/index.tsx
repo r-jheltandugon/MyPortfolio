@@ -10,7 +10,7 @@ import {
 } from "../../components/global";
 import { FiArrowDown, FiFileText } from "react-icons/fi";
 import resume from "../../assets/resume.pdf";
-import portrait from "../../assets/rjhel.jpg";
+import portrait from "../../assets/R-jhel.jpg";
 import { Container, Portrait, ScrollArrow, WavingHand, Image } from "./styles";
 import { RoughNotationGroup } from "react-rough-notation";
 import { useIsInViewport } from "../../hooks/useIsInViewport";
@@ -43,7 +43,7 @@ const Home = () => {
               </Highlight>
             </H2>
             <P>
-              A graduate of{" "}
+              A graduate from{" "}
               <Underline color="rgb(255, 198, 69)">
                 Eastern Samar State University - Salcedo with a strong passion for programming
               </Underline>{" "}

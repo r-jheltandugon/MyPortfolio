@@ -9,7 +9,7 @@ import {
   Textarea,
   FlexRow,
 } from "./styles";
-import { FiGithub, FiLinkedin, FiMail, FiSend } from "react-icons/fi";
+import { FiFacebook, FiGithub, FiLinkedin, FiMail, FiSend } from "react-icons/fi";
 import { CgSpinner, CgCheck } from "react-icons/cg";
 import { useIsInViewport } from "../../hooks/useIsInViewport";
 import { RoughNotationGroup } from "react-rough-notation";
@@ -61,11 +61,15 @@ const Contacts = () => {
             <Brackets color="rgb(255, 198, 69)">
               <P className="flex items-center text-sm truncate">
                 <FiMail className="mr-2" />
-                rjheltandugon101801@gmail.com
+                rjheltandugon10182001@gmail.com
               </P>
               <P className="flex items-center text-sm truncate">
                 <FiLinkedin className="mr-2" />
                 in/r-jhel-tandugon-66052928a
+              </P>
+              <P className="flex items-center text-sm truncate">
+                <FiFacebook className="mr-2" />
+                rjheltandugon18
               </P>
               <P className="flex items-center text-sm truncate">
                 <FiGithub className="mr-2" />
