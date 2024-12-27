@@ -15,6 +15,7 @@ import {
   SiVuedotjs,
   SiPhp,
   SiMysql,
+  SiTailwindcss,
 } from "react-icons/si";
 // import dora from "./assets/dora.png";
 // import trinketsofluna from "./assets/trinketsofluna.png";
@@ -96,6 +97,7 @@ export const frontendStacks = [
   { name: "React", icon: <SiReact /> },
   { name: "Bootstrap", icon: <SiBootstrap /> },
   { name: "Vue", icon: <SiVuedotjs /> },
+  { name: "TailwindCSS", icon: <SiTailwindcss /> },
 ];
 
 export const backendStacks = [
