@@ -16,6 +16,7 @@ import {
   SiPhp,
   SiMysql,
   SiTailwindcss,
+  SiPython,
 } from "react-icons/si";
 // import dora from "./assets/dora.png";
 // import trinketsofluna from "./assets/trinketsofluna.png";
@@ -91,6 +92,7 @@ import {
 export const programmingLanguages = [
   { name: "TypeScript", icon: <SiTypescript /> },
   { name: "JavaScript", icon: <SiJavascript /> },
+  { name: "Python", icon: <SiPython /> },
 ];
 
 export const frontendStacks = [
