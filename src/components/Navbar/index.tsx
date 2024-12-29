@@ -2,7 +2,6 @@ import { Header, Container, IconsContainer, Icon } from "./styles";
 import {
   FiHome,
   FiUser,
-  FiTerminal,
   FiMail,
   FiMoon,
   FiSun,
@@ -19,7 +18,6 @@ const Navbar = () => {
         <IconsContainer>
           <Navlink to="homepage" offset={0} icon={<FiHome />} />
           <Navlink to="about" offset={-120} icon={<FiUser />} />
-          <Navlink to="projects" offset={-120} icon={<FiTerminal />} />
           <Navlink to="contacts" offset={-120} icon={<FiMail />} />
         </IconsContainer>
         <IconsContainer>
