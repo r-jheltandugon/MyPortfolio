@@ -17,6 +17,7 @@ import {
   SiMysql,
   SiTailwindcss,
   SiPython,
+  SiLaravel,
 } from "react-icons/si";
 // import dora from "./assets/dora.png";
 // import trinketsofluna from "./assets/trinketsofluna.png";
@@ -105,6 +106,7 @@ export const frontendStacks = [
 export const backendStacks = [
   { name: "PHP", icon: <SiPhp /> },
   { name: "Django", icon: <SiDjango /> },
+  { name: "Laravel", icon: <SiLaravel /> },
 ];
 
 export const databaseStacks = [
