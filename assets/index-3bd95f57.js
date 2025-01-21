@@ -83,7 +83,7 @@ PERFORMANCE OF THIS SOFTWARE.
   flex gap-3 p-2
 `,Vs=N.div`
   text-gray-500 hover:text-black pointer text-lg px-1 transition duration-200 ease-in-out dark:text-dark-icon dark:hover:text-white
-`,Im=()=>{const e=()=>{window.open("https://github.com/ambo18","_blank")},t=()=>{window.open("https://www.linkedin.com/in/r-jhel-tandugon-66052928a/","_blank")};return w.jsx(Nm,{children:w.jsxs(bm,{children:[w.jsx(ze,{className:"pl-2 text-xs",children:"Made with 💖 by R-jhel"}),w.jsxs(Rm,{children:[w.jsx(Vs,{children:w.jsx(gf,{onClick:e})}),w.jsx(Vs,{children:w.jsx(yf,{onClick:t})})]})]})})},$m="/MyPortfolio/assets/resume-f3a1aa84.pdf",Dm="/MyPortfolio/assets/R-jhel-07fd2af7.jpg",Fm=N.div`
+`,Im=()=>{const e=()=>{window.open("https://github.com/r-jheltandugon","_blank")},t=()=>{window.open("https://www.linkedin.com/in/r-jhel-tandugon-66052928a/","_blank")};return w.jsx(Nm,{children:w.jsxs(bm,{children:[w.jsx(ze,{className:"pl-2 text-xs",children:"Made with 💖 by R-jhel"}),w.jsxs(Rm,{children:[w.jsx(Vs,{children:w.jsx(gf,{onClick:e})}),w.jsx(Vs,{children:w.jsx(yf,{onClick:t})})]})]})})},$m="/MyPortfolio/assets/resume-f3a1aa84.pdf",Dm="/MyPortfolio/assets/R-jhel-07fd2af7.jpg",Fm=N.div`
   flex flex-col items-center justify-center mx-auto max-w-4xl w-full px-5 h-screen max-h-screen
 `,Hm=N.div`
   flex gap-3 w-32 h-32 relative rounded-full select-none flex-shrink-0 mb-3
