@@ -4,7 +4,7 @@ import { FiGithub, FiLinkedin } from "react-icons/fi";
 
 const Footer = () => {
   const handleGithubClick = () => {
-    window.open("https://github.com/ambo18", "_blank");
+    window.open("https://github.com/r-jheltandugon", "_blank");
   };
 
   const handleLinkedInClick = () => {
