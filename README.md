@@ -1,5 +1,7 @@
 # MyPortfolio
 
+![Repository Visits](https://hits.sh/github.com/ambo18/MyPortfolio.svg?style=for-the-badge&label=Visits&color=blue&logo=github)
+
 This is a personal portfolio website built with React, TypeScript, and Vite. It showcases my skills, projects, and experience. The website is deployed using GitHub Pages and is fully responsive, designed to adapt to different screen sizes.
 
 You can view the live portfolio here: [https://ambo18.github.io/MyPortfolio](https://ambo18.github.io/MyPortfolio).
