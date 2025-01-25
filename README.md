@@ -4,7 +4,7 @@
 
 This is a personal portfolio website built with React, TypeScript, and Vite. It showcases my skills, projects, and experience. The website is deployed using GitHub Pages and is fully responsive, designed to adapt to different screen sizes.
 
-You can view the live portfolio here: [https://ambo18.github.io/MyPortfolio](https://ambo18.github.io/MyPortfolio).
+You can view the live portfolio here: [https://r-jheltandugon.github.io/MyPortfolio](https://r-jheltandugon.github.io/MyPortfolio).
 
 ## Table of Contents
 
@@ -42,7 +42,7 @@ To get started with the project locally, follow the instructions below.
 1. Clone the repository to your local machine:
 
     ```bash
-    git clone https://github.com/ambo18/MyPortfolio.git
+    git clone https://github.com/r-jheltandugon/MyPortfolio.git
     ```
 
 2. Navigate into the project directory:
