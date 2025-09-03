@@ -117,16 +117,28 @@ export const databaseStacks = [
 
 export const experiences = [
   {
-    id: 1,
-    timeline: "April 2024 - May 2024",
-    company: "SciBiz",
-    position: "Backend Developer",
+    id: 2,
+    timeline: "August 2023 - February 2024",
+    company: "Freelance",
+    position: "Software Developer",
   },
   {
     id: 2,
     timeline: "February 2024 - March 2024",
     company: "Eastern Samar State University",
     position: "Full Stack Developer",
+  },
+  {
+    id: 3,
+    timeline: "April 2024 - May 2024",
+    company: "SciBiz",
+    position: "Backend Developer",
+  },
+  {
+    id: 4,
+    timeline: "October 2024 - July 2025",
+    company: "Salcedo Doctors Hospital",
+    position: "Software Developer",
   },
 ];
 
